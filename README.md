@@ -37,10 +37,10 @@ quiz/
 
 ### Adding Quiz Images
 
-To add your quiz images, replace the placeholder text in each quiz page:
+To add your quiz images, replace the placeholder div in each quiz page:
 
 ```html
-<div class="quiz-image">
+<div class="quiz-image-placeholder">
     [Image Placeholder - Add your quiz image here]
 </div>
 ```
